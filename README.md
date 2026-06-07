@@ -15,7 +15,7 @@ A high-fidelity, local-first visual regression testing framework designed to det
 ## 🏗️ Project Architecture
 
 ```text
-visual-tester/
+Visual-Testing/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py                  # FastAPI server layout & routing endpoints
