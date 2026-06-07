@@ -1,6 +1,7 @@
 # Visual Testing Engine
 
 A high-fidelity, local-first visual regression testing framework designed to detect layout anomalies and UI shifts in web applications. Built specifically to handle dense enterprise dashboards, heavy e-commerce interfaces, and data-dense layouts while intelligently suppressing text-rendering artifacts and fine anti-aliasing noise.
+<img width="1440" height="813" alt="Screenshot 2026-06-07 at 6 42 49 AM" src="https://github.com/user-attachments/assets/05935d58-9ded-4fc7-a076-1fc6e6b702c4" />
 
 ## 🚀 Key Features
 
