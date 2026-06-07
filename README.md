@@ -8,7 +8,6 @@ A high-fidelity, local-first visual regression testing framework designed to det
 * **Morphological Computer Vision Processing**: Leverages advanced OpenCV morphological closing operations to structurally filter out minor text updates and character-level noise, prioritizing structural layout shifts.
 * **Split-Screen Anomaly Inspector**: Interactive side-by-side workspace dashboard built with React to inspect baseline states alongside test executions.
 * **Interactive Issue Navigation**: Built-in Anomaly Map Legend with coordinate-mapped fault regions and an interactive sidebar selector.
-* **High-Trust Visual Aesthetic**: Clean, minimalist interface using an enterprise security-blue color palette optimized for explicit fault isolation.
 * **Local-First Performance**: Executes directly within local container networks, bypassing slow cloud rendering limits and keeping test workflows snappy.
 
 ---
